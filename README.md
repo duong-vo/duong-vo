@@ -4,7 +4,7 @@
 
 Skills: Java, Clojure, C++, Python
 
-<h2><i>🏗 Featured Projects </i></h2>
+<h2><i>🏗 Projects </i></h2>
 <a href = "https://github.com/duong-vo/diary-project" >
 
 
