@@ -1,8 +1,6 @@
-<h1 align="center"> Welcome To My GitHub!</h1>
-<br>
-## 😀 *About Me*
-I'm Duong 
+<h1 align="center"> Welcome To My GitHub! </h1>
 
+## 😀 About me
 
 Skills: Java, Clojure, C++, Python
 
