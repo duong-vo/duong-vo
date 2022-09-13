@@ -1,9 +1,10 @@
-### Hi there 👋, Hi, My Name is Duong Vo
+### Hi, My Name is Duong Vo
 #### An aspiring software engineer from Vietnam
+
 
 Skills: Java, Clojure, C++, Python
 
-## Ongoing Projects
+<h2><i>🏗 Featured Projects </i></h2>
 <a href = "https://github.com/duong-vo/diary-project" >
 
 
