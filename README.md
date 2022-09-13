@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome To My GitHub!</h1>
-## Hi, My Name is Duong Vo
-## An aspiring software engineer from Vietnam
+## 😀 *About Me*
+I'm Duong 
 
 
 Skills: Java, Clojure, C++, Python
