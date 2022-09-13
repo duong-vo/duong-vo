@@ -5,7 +5,7 @@ An aspiring Software Engineer from Vietnam
 
 Skills: Java, Clojure, C++, Python
 
-<h2><i>🏗 Projects </i></h2>
+<h2>🏗 Projects </h2>
 <a href = "https://github.com/duong-vo/diary-project" >
 
 
