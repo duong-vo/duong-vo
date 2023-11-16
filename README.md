@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome To My GitHub! </h1>
 
 ## 😀 About me
-An aspiring Software Engineer from Vietnam
+Aspiring Software Engineer with extensive experience in Fullstack Web development, Hackathon Enthusiast.
 
 Skills: Java, Clojure, C++, Python
 
