@@ -3,8 +3,7 @@
 ## 😀 About me
 Aspiring Software Engineer with extensive experience in Fullstack Web development, Hackathon Enthusiast.
 
-## Skills:
-<br>
+## Skills
 <b>Programming Languages</b>: Java, Python, Ruby, JavaScript, C++, HTML, SQL
 <br>
 <b>Frameworks</b>: Ruby on Rails, React, Node, Django, Flask, Spring, JQuery
