@@ -3,7 +3,10 @@
 ## 😀 About me
 Aspiring Software Engineer with extensive experience in Fullstack Web development, Hackathon Enthusiast.
 
-Skills: Java, Clojure, C++, Python
+Skills: 
+Programming Languages: Java, Python, Ruby, JavaScript, C++, HTML, SQL
+Frameworks: Ruby on Rails, React, Node, Django, Flask, Spring, JQuery
+Technologies: Linux, Unix, Git, MongoDB, PostgreSQL, Docker
 
 <h2>🏗 Projects </h2>
 <a href = "https://github.com/duong-vo/diary-project" >
